@@ -1,0 +1,7 @@
+.nv_itm{
+    transition: .2s;
+}
+
+.nv_itm:hover{
+    color: #efb20a!important;
+}
